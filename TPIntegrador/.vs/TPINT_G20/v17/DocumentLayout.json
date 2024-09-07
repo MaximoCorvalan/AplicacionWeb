@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminmedicos\\listamedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\listamedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|c:\\users\\user\\desktop\\tpintegrador_g20v12\\tpintegrador_g20\\tpintegrador\\adminmedicos\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminmedicos\\altamedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\altamedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminmedicos\\altamedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\altamedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminmedicos\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminpacientes\\altapacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminpacientes\\altapacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminpacientes\\altapacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminpacientes\\altapacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\asignacionturno\\asignacionturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:asignacionturno\\asignacionturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\asignacionturno\\asignacionturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:asignacionturno\\asignacionturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminpacientes\\listapacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminpacientes\\listapacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\usuariomedico\\usuariomedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:usuariomedico\\usuariomedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\inicio\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:inicio\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminmedicos\\listamedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminmedicos\\listamedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Dao\\daoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminpacientes\\modificarpacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminpacientes\\modificarpacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\adminpacientes\\modificarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499467CA-E0CB-4539-AB2B-19AADB85F94A}|Vista.csproj|solutionrelative:adminpacientes\\modificarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Negocio\\NegocioUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Entidades\\Medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Dao\\daoMedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Dao\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Dao\\daoPaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Entidades\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Entidades\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TPIntegrador_G20\\Negocio\\negocioMedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\negocio\\negociopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\dao\\daopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\dao\\daomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\dao\\daoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\negocio\\negocioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\entidades\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\entidades\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\cositas mias\\tpintegrador_g20\\dao\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ModificarMedicos.aspx",
+              "RelativeDocumentMoniker": "AdminMedicos\\ModificarMedicos.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ModificarMedicos.aspx",
+              "RelativeToolTip": "AdminMedicos\\ModificarMedicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T18:05:57.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModificarMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ModificarMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "AdminMedicos\\ModificarMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ModificarMedicos.aspx.cs",
+              "RelativeToolTip": "AdminMedicos\\ModificarMedicos.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:46:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AltaMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\AltaMedicos.aspx",
+              "RelativeDocumentMoniker": "AdminMedicos\\AltaMedicos.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\AltaMedicos.aspx",
+              "RelativeToolTip": "AdminMedicos\\AltaMedicos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T20:25:37.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ListaMedicos.aspx",
+              "RelativeDocumentMoniker": "AdminMedicos\\ListaMedicos.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ListaMedicos.aspx",
+              "RelativeToolTip": "AdminMedicos\\ListaMedicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-26T17:32:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltaMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\AltaMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "AdminMedicos\\AltaMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\AltaMedicos.aspx.cs",
+              "RelativeToolTip": "AdminMedicos\\AltaMedicos.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:25:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "negocioMedico.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:13:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "negocioPaciente.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioPaciente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioPaciente.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioPaciente.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioPaciente.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:45:42.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "daoPaciente.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAqwG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:04:55.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "daoMedico.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAuwLEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:49:25.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AltaPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\AltaPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPacientes\\AltaPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\AltaPacientes.aspx.cs",
+              "RelativeToolTip": "AdminPacientes\\AltaPacientes.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:53:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "asignacionTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AsignacionTurno\\asignacionTurnos.aspx",
+              "RelativeDocumentMoniker": "AsignacionTurno\\asignacionTurnos.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AsignacionTurno\\asignacionTurnos.aspx",
+              "RelativeToolTip": "AsignacionTurno\\asignacionTurnos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T17:41:28.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AltaPacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\AltaPacientes.aspx",
+              "RelativeDocumentMoniker": "AdminPacientes\\AltaPacientes.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\AltaPacientes.aspx",
+              "RelativeToolTip": "AdminPacientes\\AltaPacientes.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-26T17:52:54.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "daoTurno.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoTurno.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoTurno.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoTurno.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoTurno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:29:28.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "asignacionTurnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AsignacionTurno\\asignacionTurnos.aspx.cs",
+              "RelativeDocumentMoniker": "AsignacionTurno\\asignacionTurnos.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AsignacionTurno\\asignacionTurnos.aspx.cs",
+              "RelativeToolTip": "AsignacionTurno\\asignacionTurnos.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:48:39.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ListaPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPacientes\\ListaPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ListaPacientes.aspx.cs",
+              "RelativeToolTip": "AdminPacientes\\ListaPacientes.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:28:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "negocioTurno.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioTurno.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioTurno.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioTurno.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Negocio\\negocioTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:23:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:02:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Provincia.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Provincia.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Provincia.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Provincia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:01:40.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Entidades\\Rol.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Entidades\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:01:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Login\\Login.aspx",
+              "RelativeDocumentMoniker": "Login\\Login.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Login\\Login.aspx",
+              "RelativeToolTip": "Login\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T17:54:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Login\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Login\\Login.aspx.cs",
+              "RelativeToolTip": "Login\\Login.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:54:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "usuarioMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\UsuarioMedico\\UsuarioMedico.aspx",
+              "RelativeDocumentMoniker": "UsuarioMedico\\UsuarioMedico.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\UsuarioMedico\\UsuarioMedico.aspx",
+              "RelativeToolTip": "UsuarioMedico\\UsuarioMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T17:41:12.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Inicio\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\Inicio\\Inicio.aspx",
+              "RelativeToolTip": "Inicio\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T17:36:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListaMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ListaMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "AdminMedicos\\ListaMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminMedicos\\ListaMedicos.aspx.cs",
+              "RelativeToolTip": "AdminMedicos\\ListaMedicos.aspx.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:36:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "daoMedico.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Dao\\daoMedico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:48:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "daoUsuario.cs",
+              "DocumentMoniker": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "ToolTip": "C:\\cositas mias\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cositas mias\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:09:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NegocioUsuario.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Negocio\\NegocioUsuario.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Negocio\\NegocioUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:48:53.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Entidades\\Medico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:57:44.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "daoUsuario.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Dao\\daoUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:02:22.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Dao\\Conexion.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Dao\\Conexion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "daoPaciente.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Dao\\daoPaciente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:41:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Entidades\\Paciente.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Entidades\\Paciente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:54:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Entidades\\Usuario.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Entidades\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:44:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "negocioMedico.cs",
+              "DocumentMoniker": "D:\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "ToolTip": "D:\\TPIntegrador_G20\\Negocio\\negocioMedico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:20:14.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModificarPacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ModificarPacientes.aspx",
+              "RelativeDocumentMoniker": "AdminPacientes\\ModificarPacientes.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ModificarPacientes.aspx",
+              "RelativeToolTip": "AdminPacientes\\ModificarPacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-26T20:29:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModificarPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ModificarPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPacientes\\ModificarPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TPIntegrador_G20v12\\TPIntegrador_G20\\TPIntegrador\\AdminPacientes\\ModificarPacientes.aspx.cs",
+              "RelativeToolTip": "AdminPacientes\\ModificarPacientes.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:30:57.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

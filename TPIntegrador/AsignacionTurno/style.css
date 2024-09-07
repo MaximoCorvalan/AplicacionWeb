@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.calendario{
+  
+    margin:auto;
+    margin-top:10px;
+}
+
+
+h2 {
+    border-radius: 10px 10px 0 0;
+    background-color: #4CAF50;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    height: 90vh;
+    margin-top: 20px;
+    width: 33vw;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px  rgb(75, 74, 74);
+   
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 115px;
+    background-color: #4CAF50;
+    margin-bottom: 30px;
+    margin-top:20px;
+}
+
+   .btn:hover {
+       background-color: #7cd5d0;
+    }
+
+.conteiner label{
+   margin-left: 100px;
+}
+.ddl {
+    padding:6px;
+    width: 50%;
+    margin-left: 100px;
+}

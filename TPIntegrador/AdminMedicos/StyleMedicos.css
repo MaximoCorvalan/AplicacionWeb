@@ -1,0 +1,104 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   
+}
+.estado {
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.dias {
+    font-size: 15px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 3px;
+}
+
+.form-container {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    margin: auto;
+    background-color: #e0f7e9;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+    margin-top: 150px;
+   
+
+}
+
+.form-container h2 {
+    text-align: center;
+    color: #2e7d32;
+}
+
+.form-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form-group label {
+    width: 100%;
+}
+
+.form-group div {
+    flex: 1;
+    min-width: 45%;
+    margin: 10px 0;
+}
+
+.form-group div:nth-child(odd) {
+    margin-right: 5%;
+}
+
+.form-group div:nth-child(even) {
+    margin-left: 5%;
+}
+
+.form-group div input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group div select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 0px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 160px;
+    background-color: #4CAF50;
+}
+
+.btn:hover {
+        background-color: #AED6F1;
+}
+
+.form-group .full-width {
+        flex: 1;
+        min-width: 100%;
+        margin: 10px 0;
+}
+

@@ -1,0 +1,66 @@
+﻿body {
+    background-color: #D7DBDD;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.conteiner {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 60px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.datos {
+    display: flex;
+    flex-direction: row;
+}
+
+.TextBox {
+    padding: 10px;
+    width: 220px;
+    margin: 13px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.date input {
+    margin-top: 3px;
+    padding: 6px;
+    width: 100%;
+}
+
+h2 {
+    border-radius: 10px 10px 0 0;
+    padding: 6px;
+    font-size: 24px;
+    margin: 0;
+    color: white;
+    background-color: #4CAF50;
+    width: 100%;
+    text-align: center;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 25px;
+    background-color: #4CAF50;
+}
+
+.btn:hover {
+    background-color: #AED6F1;
+}

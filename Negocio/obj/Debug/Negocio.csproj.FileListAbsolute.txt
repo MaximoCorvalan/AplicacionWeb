@@ -1,0 +1,264 @@
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Dao.dll
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel\Desktop\PR3\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.pdb
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Negocio.dll
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Dao.dll
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Entidades.dll
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Dao.pdb
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.dll
+C:\Users\danim\OneDrive\Documentos\TP-PROGRAMACION\TPIntegradorv13\TPIntegradorv11\TPIntegradorv11\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegradorv11\Negocio\obj\Debug\Negocio.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\obj\Debug\Negocio.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\obj\Debug\Negocio.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Negocio.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Negocio.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Dao.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Entidades.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Dao.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\bin\Debug\Entidades.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegradorv11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+D:\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+D:\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+D:\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+D:\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+D:\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+D:\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+D:\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel\Documents\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\MIVERSION\TPIntegrador_G20 v21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\cositas mias\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\cositas mias\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\cositas mias\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\cositas mias\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\cositas mias\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+D:\donloads\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+D:\donloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\donloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\donloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\donloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+D:\donloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20.v7-03\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucas\Downloads\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20v12\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel\Desktop\PROGRA\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20 v15\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\cositas mias\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20_V18\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+D:\donloads\TPIntegrador_G20v19\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+A:\UTN - 3ER_CUATRI\PROG_III\TP_Integrador\Segunda_Entrega\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20V20\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel\Downloads\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\cositas mias\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINAL\TPIntegrador_G20V21\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Dao.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Dao.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\TPIntegrador_G20VFINALLL\TPIntegrador_G20\Negocio\obj\Debug\Negocio.pdb
